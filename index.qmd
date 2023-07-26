@@ -1,0 +1,362 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: false
+editor: visual
+---
+
+<h1>Noon Case Conference--- August 1st, 2023</h1>
+
+<br>
+
+<header>
+
+<center>
+
+<h2>*Holes In The Lung*</h2>
+
+</center>
+
+</header>
+
+<hr>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
+
+## Instructions for viewing the cases
+
+<br> <br>
+
+::: {style="font-size: 1.1em; text-align: center"}
+-   use your keyboard arrow keys to navigate through the slides
+-   you can view the presentation in full screen mode by hitting `f` on your keyboard; hit `esc` to exit
+-   mouse-click through the Tabs; start and end each case with the `Presentation` Tab
+-   there is a menu ![](images/menu-icon.jpg){.center} icon bottom-left that you can use to navigate as well.
+-   please volunteer to discuss a case(s) during the conference!
+:::
+
+## Case one
+
+::: panel-tabset
+### Presentation
+
+This HIV-positive patient has an acute, febrile respiratory illness.
+
+### Imaging
+
+![](images/caseone.jpg){width="90%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case two
+
+::: panel-tabset
+### Presentation
+
+A chronic condition associated with diminished DLCO (Diminished Capacity For Carbon Monoxide).
+
+### Imaging
+
+![](images/casetwolam.jpg){width="90%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case three
+
+::: panel-tabset
+### Presentation
+
+The patient presented to the Emergency Department for evaluation of sudden, acute chest pain while "at rest."
+
+### Imaging
+
+![](images/casethreebhd.jpg){width="90%" fig-align="center"}
+
+### Additional information
+
+This is the patient's nose.
+
+Well, it could look like this!
+
+![](images/casethreenose.jpg){width="30%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case four
+
+::: panel-tabset
+### Presentation
+
+Sometimes, radiography in a particular condition is typical of it. You'll get bonus points for getting this one on the basis of radiography alone!
+
+Otherwise the CT should get you there immediately.
+
+### Radiography
+
+![](images/casefourpa.jpg){width="47%" fig-align="center"}
+
+### CT
+
+![](images/casefourct.jpg){width="46%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case five
+
+::: panel-tabset
+### Presentation
+
+This patient has no respiratory impairment or symptoms.
+
+### Imaging
+
+![](images/casefive.jpg){width="80%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case six
+
+::: panel-tabset
+### Presentation
+
+Abnormalities were perceived in the lung bases on abdominal CT obtained for evaluation of possible Inflammatory Bowel Disease. No abdominal pathology was identified.
+
+Further evaluation was perfomed
+
+### Radiography
+
+![](images/casesixpa.jpg){width="50%" fig-align="center"}
+
+### CT
+
+![](images/casesixct.jpg){width="80%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case seven
+
+::: panel-tabset
+### Presentation
+
+A staging CT was performed in an oncology patient. A solitary finding was present.
+
+### CT
+
+![](images/caseseven.jpg){width="50%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case eight
+
+::: panel-tabset
+### Presentation
+
+An ILD-CT performed in a chronic smoker for the evaluation of dyspnea on exertion. 
+
+### CT
+
+Hint: There is no Differential Diagnosis.
+
+![](images/caseeight.jpg){width="50%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case nine
+
+::: panel-tabset
+### Presentation
+
+A SCUBA diver was transported to an acute care clinic for acute chest pain while diving. 
+
+Radiography reportedly showed a small left pneumothorax. In the E.D., a CT was requested. 
+
+### CT
+
+A representative image of the basal hemithorax.
+
+![](images/casenine.jpg){width="30%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case ten
+
+::: panel-tabset
+### Presentation
+
+A patient with a chronic (many years), productive cough
+ 
+
+### Radiography
+
+
+
+![](images/caseten.jpg){width="50%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case eleven
+
+::: panel-tabset
+
+### Presentation
+
+A middle-aged patient with substantial exercise limitation and reduced DLCO.
+ 
+
+### Radiography
+
+
+![](images/caseelevenpa.jpg){width="45%" fig-align="center"}
+
+### CT
+
+A representative image.
+
+![](images/caseelevenct.jpg){width="50%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case twelve
+
+::: panel-tabset
+
+### Presentation
+
+This patient's back looks like this.
+
+
+![](images/casetwelveback.jpg){width="40%" fig-align="center"}
+
+
+### CT
+
+Representative images.
+
+Does this make sense ?
+
+![](images/casetwelvect.jpg){width="90%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case thirteen
+
+::: panel-tabset
+
+### Presentation
+
+If you can make a diagnosis that unifies the findings on these three images, you'll win a big prize -- even though it's not the last case.
+
+Odds are very high that you've not seen this before.
+
+Good luck!
+
+
+ 
+
+### CT
+
+
+![](images/casethirteen.jpg){width="95%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case fourteen
+
+::: panel-tabset
+
+### Presentation
+
+A patient with "end-stage" interstitial fibrosis.
+
+
+
+### Prior to lung transplantation
+
+
+![](images/casefourteenbeforetransplantation.jpg){width="95%" fig-align="center"}
+
+### After transplanation
+
+![](images/casefourteenaftertransplantation.jpg){width="60%" fig-align="center"}
+
+
+### Later---some hemoptysis
+
+![](images/casefourteenlaterct.jpg){width="50%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case fifteen
+
+::: panel-tabset
+
+### Presentation
+
+A patient with substantial pack-years of smoking.
+ 
+
+### CT
+
+
+![](images/casefifteenct.jpg){width="100%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
