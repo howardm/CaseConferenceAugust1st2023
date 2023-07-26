@@ -75,7 +75,7 @@ This HIV-positive patient has an acute, febrile respiratory illness.
 ::: panel-tabset
 ### Presentation
 
-A chronic condition associated with diminished DLCO (Diminished Capacity For Carbon Monoxide).
+A chronic condition associated with diminished DLCO (Diffusing Capacity For Carbon Monoxide).
 
 ### Imaging
 
@@ -101,7 +101,7 @@ The patient presented to the Emergency Department for evaluation of sudden, acut
 
 This is the patient's nose.
 
-Well, it could look like this!
+Well...It could look like this!
 
 ![](images/casethreenose.jpg){width="30%" fig-align="center"}
 
@@ -140,7 +140,7 @@ Otherwise the CT should get you there immediately.
 ::: panel-tabset
 ### Presentation
 
-This patient has no respiratory impairment or symptoms.
+This patient has no findings of respiratory impairment or symptoms.
 
 ### Imaging
 
